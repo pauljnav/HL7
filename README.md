@@ -1,5 +1,4 @@
-# HL72
-hl72
+# HL7v2
 
 ## References
 
